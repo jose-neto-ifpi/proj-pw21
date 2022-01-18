@@ -34,7 +34,7 @@ class Home extends React.Component {
 
       <h1> AteliÃª NinArtes </h1>
       <figure>
-        <img class="img-thumbnail mx-auto d-block" src="images/logo.jpeg" alt="Nossa Logomarca">
+        <img class="img-thumbnail mx-auto d-block" src="images/logo.jpeg" alt="Nossa Logomarca"/>
         <figcaption>AteliÃª Nina Artes</figcaption>
       </figure>
 
@@ -46,7 +46,7 @@ class Home extends React.Component {
               <div class="carousel-item active">
 
                 <img src="images/depoimentos/foto2.png" class="img-thumbnail mx-auto d-block w-50 p-3"
-                  alt="Depoimentos de Clientes" object-fit="contain">
+                  alt="Depoimentos de Clientes" object-fit="contain"/>
                 <div class="carousel-caption d-none d-md-block">
                   <h5>LaÃ§os Encantados</h5>
                   <p>Estou encantada com tanta delicadeza!</p>
@@ -57,7 +57,7 @@ class Home extends React.Component {
 
               <div class="carousel-item">
                 <img src="images/depoimentos/foto3.png" class="img-thumbnail mx-auto d-block w-50 p-3"
-                  alt="Depoimentos de Clientes">
+                  alt="Depoimentos de Clientes"/>
                 <div class="carousel-caption d-none d-md-block">
                   <h5>LaÃ§os Com Amor</h5>
                   <p>Ã‰ muito amor e carinho em uma Ãºnica peÃ§a! </p>
@@ -135,15 +135,15 @@ class Home extends React.Component {
           <div class="form-group">
 
             <label for="contato-nome">Nome:</label>
-            <input class="form-control" id="contato-nome" type="text" placeholder="Seu nome">
+            <input class="form-control" id="contato-nome" type="text" placeholder="Seu nome"/>
           </div>
           <div class="form-group">
             <label for="contato-email">E-mail:</label>
-            <input class="form-control" id="contato-email" type="text" placeholder="Seu e-mail">
+            <input class="form-control" id="contato-email" type="text" placeholder="Seu e-mail"/>
           </div>
           <div class="form-group">
             <label for="contato-email">Mensagem:</label>
-            <input class="form-control" id="contato-email" type="text-area" placeholder="Digite aqui sua mensagem">
+            <input class="form-control" id="contato-email" type="text-area" placeholder="Digite aqui sua mensagem"/>
           </div>
           <div class="form-group">
             <button type="button" class="btn btn-primary">Enviar</button>
@@ -159,7 +159,7 @@ class Home extends React.Component {
 
 
     </footer>
-    <!--<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> -->
+    {/*<!--<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script> -->*/}
     <script src="bootstrap-5/js/bootstrap.js"></script>
   </div>
 </body>
