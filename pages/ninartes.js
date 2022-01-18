@@ -65,7 +65,7 @@ class Home extends React.Component {
               </div>
               <div class="carousel-item">
                 <img src="images/depoimentos/foto4.png" class="img-thumbnail mx-auto d-block w-50 p-3"
-                  alt="Depoimentos de Clientes">
+                  alt="Depoimentos de Clientes"/>
                 <div class="carousel-caption d-none d-md-block">
                   <h5>Niver da Lara!</h5>
                   <p>Minha festa ficou mais especial com essa linda princesa! </p>
